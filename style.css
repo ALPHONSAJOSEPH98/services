@@ -10,7 +10,7 @@ h4{text-align: center;}
 .d4{display: flex; justify-content: space-evenly;}
 .d5>img{ border-radius: 20px; }
 h2{text-align: center; }
-a{text-decoration: none; color: rgb(37, 151, 98); }
+a{text-decoration: none; color: rgba(47, 180, 118, 0.982); }
 button{background-color: white; border-radius: 50px; padding: 10px; border:1px solid rgb(15, 145, 54) ;}
 .d6{width: 1000px;text-align: center; margin-left: 100px;}
 .d7{text-align: center;}
@@ -28,6 +28,7 @@ col3:hover{transition: 1s ;}
 #div1{ width: 1140px; padding: 10px 20px  ; margin-left: 8px ; box-shadow: 1px 2px 5px 1px; margin-top: 10px;}
  
 .book-now{border: 1px solid white;  }
+.a1{position: absolute; top: 20px; left: 1080px; color: white; font-size: x-large;}
 
 /* foooooter */
 
